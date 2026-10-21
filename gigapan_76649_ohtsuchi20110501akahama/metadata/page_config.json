@@ -1,0 +1,116 @@
+{
+  "gigapan": {
+    "is_game": false,
+    "snapshottable": true,
+    "related_gigapans": [
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/125352/images/125352-150x100-23440-34216-0-7184.jpg",
+        "name": "福島県:本宮市:白岩:堤崎:双葉ばら園写真展②:(3/5)",
+        "id": 125352
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/76709/images/76709-150x100-11389-28123-0-11156.jpg",
+        "name": "Unosumai in Ohtsuchi",
+        "id": 76709
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/104199/images/104199-150x100-15112-24400-0-6192.jpg",
+        "name": "宮城県:牡鹿郡:女川町:きぼうのかね商店街",
+        "id": 104199
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/86986/images/86986-150x100-22518-39930-0-11608.jpg",
+        "name": "宮城県:石巻市:吉浜小学校、石巻市役所支所前(9/10)",
+        "id": 86986
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/119178/images/119178-150x100-3496-24472-0-13984.jpg",
+        "name": "宮城県：仙台市：太白区：太白山（12/1）",
+        "id": 119178
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/101176/images/101176-150x100-17056-24064-0-4672.jpg",
+        "name": "宮城県:石巻市:鮎川:鮎川浜の地盤沈下(3/21)",
+        "id": 101176
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/102716/images/102716-150x100-5604-11916-0-4208.jpg",
+        "name": "宮城県:気仙沼市:鹿折地区(4/11) ",
+        "id": 102716
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/121825/images/121825-150x100-3742-16858-0-8744.jpg",
+        "name": "宮城県：東松島市：野蒜築港跡",
+        "id": 121825
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/131038/images/131038-150x100-10110-24786-0-9784.jpg",
+        "name": "宮城県:仙台市:若林区:二木地区",
+        "id": 131038
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/76691/images/76691-150x100-10588-28948-0-12240.jpg",
+        "name": "Akahama in Ohtsuchi",
+        "id": 76691
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/116158/images/116158-150x100-6156-21660-0-10336.jpg",
+        "name": "宮城県:亘理町:ふるさと復興商店街",
+        "id": 116158
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/106068/images/106068-150x100-11916-27636-0-10480.jpg",
+        "name": "宮城県:塩竈市:野ノ島(5/25)",
+        "id": 106068
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/101599/images/101599-150x100-12906-26622-0-9144.jpg",
+        "name": "宮城県:東松島市:大曲字堺堀:矢本運動公園応急仮設住宅(3/27)",
+        "id": 101599
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/80279/images/80279-150x100-13009-26551-0-9028.jpg",
+        "name": "Ohsawa in Yamada",
+        "id": 80279
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/78401/images/78401-150x100-11310-28194-0-11256.jpg",
+        "name": "Near by Ohtsuchi station in Ohtsuchi",
+        "id": 78401
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/79734/images/79734-150x100-11073-28815-0-11828.jpg",
+        "name": "Tohno Magokoro Net in Office",
+        "id": 79734
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/121108/images/121108-150x100-22541-38003-0-10308.jpg",
+        "name": "宮城県:気仙沼市:唐桑町:大沢地区",
+        "id": 121108
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/92122/images/92122-150x100-12310-45538-0-22152.jpg",
+        "name": "埼玉県:大滝村",
+        "id": 92122
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/119048/images/119048-150x100-5291-22445-0-11436.jpg",
+        "name": "宮城県:気仙沼市:鹿折地区(11/27)",
+        "id": 119048
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/122150/images/122150-150x100-11682-25290-0-9072.jpg",
+        "name": "宮城県：岩沼市：阿武隈川河口2",
+        "id": 122150
+      }
+    ],
+    "is_private": false,
+    "allow_others_to_print": false,
+    "id": 76649,
+    "user_id": 14936,
+    "height": 16116,
+    "levels": 9,
+    "tile_server_path": "http://tile76.gigapan.org/gigapans0/76649/tiles/",
+    "width": 39616
+  }
+}

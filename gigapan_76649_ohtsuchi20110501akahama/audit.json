@@ -1,0 +1,23 @@
+{
+  "id": 76649,
+  "name": "explore score 5\t Akahama in Ohtsuchi",
+  "status": "complete",
+  "started_at": "2026-10-20T23:15:23.492401+00:00",
+  "finished_at": "2026-10-20T23:18:41.702182+00:00",
+  "geometry": {
+    "width": 39616,
+    "height": 16116,
+    "levels": 9,
+    "tile_size": 256
+  },
+  "expected_tiles": 13101,
+  "verified_tiles": 13101,
+  "missing_tiles": 0,
+  "tile_bytes": 159297083,
+  "downloaded_bytes": 159290986,
+  "last_error": "",
+  "warnings": [
+    "公開 JSON に壊れた UTF-8 が含まれています。原本と文字置換した正規化版を保存しました。"
+  ],
+  "snapshot_count": 3
+}
